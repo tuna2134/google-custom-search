@@ -1,5 +1,7 @@
 # google-custom-search
 
+This repo move to [here](https://github.com/mc-fdc-dev/google-custom-search).
+
 [![Downloads](https://pepy.tech/badge/google-custom-search)](https://pepy.tech/project/google-custom-search)
 [![Downloads](https://pepy.tech/badge/google-custom-search/month)](https://pepy.tech/project/google-custom-search)
 [![Downloads](https://pepy.tech/badge/google-custom-search/week)](https://pepy.tech/project/google-custom-search)
